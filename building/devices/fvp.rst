@@ -17,7 +17,7 @@ Start out by following the ":ref:`get_and_build_the_solution`" as described in
 Next you should obtain the `Armv8-A Foundation Platform (For Linux Hosts
 Only)`_. To download FVPs you’ll need to log in to Arm Self Service. That binary
 should be untar'ed to the root of the repo forest, i.e., like this:
-``<fpv-project>/Foundation_Platformpkg``. In the end after cloning all source
+``<fvp-project>/Foundation_Platformpkg``. In the end after cloning all source
 code, getting the toolchains and "installing" Foundation_Platformpkg you should
 have a folder structure that looks like this:
 
